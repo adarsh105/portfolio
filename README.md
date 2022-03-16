@@ -1,22 +1,3 @@
-<div align="center">
-  <img alt="Logo" src="https://github.com/Surajdoberiyal/portfolio/blob/master/src/images/logo.png" width="100" />
-</div>
-<h1 align="center">
-      Personal Portfolio Website 
-  </h1>
-<p align="center">
-  The second iteration of <a href="https://iamsuraj.netlify.app/" target="_blank">https://iamsuraj.netlify.app/</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-</p>
-<p align="center">
-  Previous iterations:
-  <a href="https://surajdoberiyal.github.io/iportfolio/" target="_blank">Version 1</a>
-</p>
-
-<div align="center">
-  <img alt="Demo" src="https://github.com/Surajdoberiyal/portfolio/blob/master/src/images/demo.png" />
-</div>
-
-### TL;DR
 
 Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
